@@ -1,0 +1,767 @@
+zhongli_00526.wav|Want a quick meal to pick us back up? I know a good place in Chihu Rock.
+zhongli_00468.wav|But I should inform you that despite my expertise, I cannot necessarily claim to be a leading authority.
+zhongli_00783.wav|Ive seen many such stones in my time, I recognized it immediately. I hope you didnt mind me flaunting my experience, Mr. Kun Jun?
+zhongli_00378.wav|Indeed, contrary to the ever-bold Keqing, Ningguang is more of a businesswoman at heart, though they are both members of the Qixing.
+zhongli_00439.wav|Hmm. You almost make it sound like Im some sort of, bourgeois parasite, whose only utility lies in providing quaint pieces of trivia on demand.
+zhongli_00454.wav|It cant be helped. Trying to deprive a merchant of his profits would be like forcing a ravenous wolf to vomit up the food in its stomach. Nonetheless, under the right conditions, these thin slices will serve.
+zhongli_00098.wav|There are those in the mining trade who retain a keen interest in Dragonfall. But for someone like Mr. Kun Jun, whose motivations for seeking it are unclear even unto himself, its practically unheard-of.
+zhongli_00189.wav|*sigh* ,
+zhongli_00570.wav|So, what do you think of this farewell?
+zhongli_00459.wav|Hmm,
+zhongli_00082.wav|Precisely. Only by participating in the Rite of Parting will you be able to see the form of Rex Lapis again.
+zhongli_00319.wav|Centuries may have passed since then, but events from a thousand years ago, remain crystal clear in my mind.
+zhongli_00733.wav|Rise!
+zhongli_00571.wav|Indeed, this is the Cleansing Bell. Hmm, its in good condition.
+zhongli_00563.wav|Visions, are also a type of contract. You should know that all power comes at a price. For every bit of power you gain, so too do you gain more responsibility.
+zhongli_00693.wav|That said, let me think for a moment, Ah yes. Spare parts were made for the Guizhong Ballista when it was first built, in case it was damaged in battle.
+zhongli_00561.wav|Its said that shes the one behind the constant expansion of the Jade Chamber. Its the second most important thing to her. Even if she ever gave up the position of Tianquan, she would never give up the Jade Chamber.
+zhongli_00238.wav|Perhaps each has their motives, but this is the capital of commerce. A little exploitation once in a while is not unacceptable.
+zhongli_00138.wav|Judging by how she appeared, I fear that she will struggle for a time. But even if she may not escape that struggle immediately, simply recognizing the truth is good enough for now.
+zhongli_00504.wav|I think we should be honest with each other now.
+zhongli_00302.wav|An occurrence by chance.
+zhongli_00644.wav|This will take us north, away from the mine.
+zhongli_00623.wav|Gather.
+zhongli_00521.wav|No matter what they may be planning, you must be careful when dealing with the Fatui. Always be on your guard.
+zhongli_00237.wav|Well, thats because I prefer to share fun things with you.
+zhongli_00410.wav|What a shame. *sigh* These objects were indeed washed ashore by the Overlord of the Vortex, but they have nothing to do with the god besides being in the vicinity at the time.
+zhongli_00655.wav|Those of her people who were untouched by this disaster left for Liyue, where they sought refuge with Rex Lapis.
+zhongli_00812.wav|We can leave the jade here. I have already called for a jewelsmith to shape them into the implements that we will need.
+zhongli_00550.wav|This is the scene of the crime. Havrias body dissipated, leaving nothing but these traces of salt. Her dying moments have since been frozen in time to this very day.
+zhongli_00663.wav|Do you sell Everlasting Incense in this fine establishment?
+zhongli_00360.wav|I see your power.
+zhongli_00575.wav|This is the price she must pay, Yet I would not call it a bad thing.
+zhongli_00584.wav|You went through a lot to organize this rite, and this is a rare opportunity to see your journey bear fruit with your own eyes. You should make the most of it.
+zhongli_00162.wav|I propose you two agree upon a contract, stipulating that we alternate who gets claim to each treasure we encounter, with only one object permitted per claim.
+zhongli_00729.wav|Once youve acquired the Cleansing Bell, meet me at <color=00E1FFFF>Yujing Terrace</color>.
+zhongli_00184.wav|The only mint in Liyue, which is to say the only mint in Teyvat. All the Mora that flows throughout the world is minted there.
+zhongli_00690.wav|Could the original person who brought up the idea of seizing power have been,? Hmm,
+zhongli_00029.wav|In fact, we have yet to meet the real Kun Jun.
+zhongli_00603.wav|Youd best be on your way now. But dont forget about the Rite of Parting. Once youve finished at the Jade Chamber, meet me at Dihua Marsh.
+zhongli_00235.wav|Osial, You and I were foes
+zhongli_00642.wav|Hmm, Next, we need to purchase <color=00E1FFFF>kites</color>.
+zhongli_00367.wav|Yes. It was an order to seize all Visions within Inazumas borders, and to inlay them upon the hands of the Statue of the Omnipresent God.
+zhongli_00580.wav|If one must always consider Mora before acting, then in all things one is bound by Mora.
+zhongli_00486.wav|Hello, little girl. Do you sell Everlasting Incense here?
+zhongli_00123.wav|I hardly lifted a finger. Think nothing of it.
+zhongli_00542.wav|It must be said that the famed liquor of the Land of Pastorals is far better than Sumerus frigid snake wine.
+zhongli_00708.wav|Indeed. These are decorations used in the Rite of Parting. The seven kites represent The Seven.
+zhongli_00592.wav|Had they not been discovered
+zhongli_00515.wav|Haha, which is it, I wonder?
+zhongli_00586.wav|Careless,
+zhongli_00208.wav|Theres a simple explanation, really. To the God of Wealth and Commerce, what material is easier to get than Mora?
+zhongli_00293.wav|They would undoubtedly persevere
+zhongli_00672.wav|Haha, no respect for the divine.
+zhongli_00092.wav|We are at all times adrift in a sea of learning — new knowledge should be welcomed with open arms. Still, I imagine I will be of help to you in this endeavor. If we do encounter an expert, I look forward to broadening my own understandings.
+zhongli_00522.wav|Have you heard of the origin of the Blackcliff Forge? In the past, they would mine the ore veins of Mt. Tianheng, and then replace the cavities with factory equipment. Tunnels run in all directions throughout the mountain — some even run to the ruins deep within the earth. I doubt there is a person today who could map out all the tunnels.
+zhongli_00520.wav|Let us proceed together, then. Whatever trial awaits us, we shall face it as one.
+zhongli_00844.wav|You speak of the young adeptus of Guili Plains, *sigh* Still fulfilling his duty to this very day. Please, give this Remedium Tertiorum to him on my behalf. Oh, yes, be sure not to let Paimon eat them. Nothing of this world can withstand the power of this medicine.
+zhongli_00053.wav|When people see the object of their dreams, how many are really able to control their desire and follow the contract,?
+zhongli_00804.wav|Order guide you.
+zhongli_00399.wav|Yes, this is indeed a major issue from a financial standpoint,
+zhongli_00558.wav|Is, everything okay?
+zhongli_00862.wav|When a suitable time arrives, Ill bring a spot of fine tea and pay her a visit.
+zhongli_00806.wav|It is an honor to meet you. I have heard tell of you from Mondstadt.
+zhongli_00122.wav|A glossy exterior, with a fissure that could only have been left in the wake of a volcanic eruption. If Im not mistaken, this is a rough gem from another nation.
+zhongli_00104.wav|You arent interested in archaeology or relics — what youre really interested in is the God of Salt.
+zhongli_00509.wav|My story is long and will take up a significant amount of your time.
+zhongli_00480.wav|Haha, perhaps, perhaps.
+zhongli_00825.wav|Dont worry, I know the rules. As long as we can prove that it is good jade, you will not take a loss.
+zhongli_00305.wav|Those who come to witness, will witness. Those who are born to remember, will remember.
+zhongli_00269.wav|Hmm, the miners headed in the direction of Nantianmen the day before yesterday. From here they would have had to navigate a perilous mountain road. If their destination is indeed Nantianmen, we should be able to catch up with them.
+zhongli_00337.wav|Was Liyue, the city I had dwelt in for so long, already prepared to enter its next age? I decided that a test was needed in order to reveal the answer.
+zhongli_00140.wav|After millennia of wear and tear, even adepti contraptions are difficult to maintain.
+zhongli_00761.wav|Well then, If the contract is not agreed upon, I will no longer serve as your consultant on this expedition.
+zhongli_00206.wav|Dragonfall first emerged in the midst of a great battle, thousands of years ago. Powerful clashes of elemental energy gave birth to elemental crystals. When the fighting ceased, these geological remnants were miraculously preserved.
+zhongli_00511.wav|A new contract? Okay. Im still on leave, but I can accompany you for a while. What name should I use on the contract? I have a great many names, though when on leave I tend to go by Zhongli. And you, Traveler? What name will you be signing on this contract?
+zhongli_00086.wav|Might I ask, who,
+zhongli_00471.wav|Lets conduct separate investigations. Ill take that area, perhaps you could survey this section.
+zhongli_00499.wav|And what now? How is it that the Fatui have come under fire?
+zhongli_00010.wav|History records, but history may be changed. This incident proved that. Time is a mighty force, and histories twist in its flow,
+zhongli_00295.wav|I ended an era with my own two hands. I have always wondered how I should, remember that which I ended.
+zhongli_00225.wav|Ningguang, Ganyu,
+zhongli_00809.wav|Besides fine wine, the excellent ambience is the reason why this place is so well-loved.
+zhongli_00324.wav|Theyre exhausted, but not in danger. Dont worry.
+zhongli_00863.wav|This atmosphere is highly abnormal. It seems as though something big has happened.
+zhongli_00261.wav|The movements of the Earth Dragon can tremble the earth and shake the heavens. With your abilities, even at my full strength, I struggled to confront you, let alone seal you away.
+zhongli_00438.wav|Its easy enough. We simply need to do this, Look, it even has a scope.
+zhongli_00289.wav|You and I have a contract, so feel free to discuss anything at all within the scope of said contract.
+zhongli_00633.wav|According to my knowledge, its no ordinary vessel. Although it is only half-full, it is also forever half-full — that is to say, it is bottomless.
+zhongli_00383.wav|Well only know once {Mhe}{Fshe} starts singing.
+zhongli_00451.wav|The outcome is yet to be determined.
+zhongli_00040.wav|Haha, Ah, that was a good one. Failing a divine trial? How they came up with that excuse, I will never know.
+zhongli_00329.wav|You have a talent for many pursuits, as well as a boldness of spirit.
+zhongli_00397.wav|It was nothing, really.
+zhongli_00748.wav|Haha, it would seem that you have gained many valuable insights over the years, Cloud Retainer.
+zhongli_00755.wav|The Archon War was cruel in the extreme. Instead of consigning her to the agony of defeat, they thought, perhaps it would be better to give her a quick release.
+zhongli_00627.wav|Its because of Visions.
+zhongli_00346.wav|Or, two: They were forced to leave and had no time to think about their supplies.
+zhongli_00281.wav|All of these things turned out as I had planned. There is only one thing that I had not anticipated, and that was the conduct of the Liyue Qixing.
+zhongli_00241.wav|One mans stone is another mans gem,
+zhongli_00676.wav|Its been a while, {NICKNAME}.
+zhongli_00026.wav|The finest ingredients cooked with true expertise. This is no small feat.
+zhongli_00190.wav|Okay. If we find anything valuable or rare, lets meet on the shore opposite from here.
+zhongli_00827.wav|—Will suffer the Wrath of the Rock — you may find it rather unpleasant.
+zhongli_00506.wav|We did not measure right and wrong during the days of the Archon War in the same manner as we do today.
+zhongli_00370.wav|There is no cause for concern. They are indeed rare and precious valuables. Take this mechanism, for instance. Though one may not immediately perceive its purpose, its structure and appearance are exquisite enough to merit it a place in any fine home.
+zhongli_00661.wav|Of course, as I am now, I only wish that she could have lived in a gentler time.
+zhongli_00593.wav|She made a contract with her own self to save the nation, strictly adhered to it for over five centuries without once wavering, and even fooled the Heavenly Principles in the end, I have great respect for approaches to justice that place exacting demands not only on others, but also on the self. Though her divinity has vanished and the throne of the Archon is no more, Furina will go down in Fontaines history as a God of Justice worthy of recognition.
+zhongli_00884.wav|But I was a god of mankind. My identity may change, but my eyes will bear witness to the history of humanity.
+zhongli_00221.wav|With this clue, you should be able to solve the puzzle.
+zhongli_00875.wav|All Mora is currency, but not all currency is Mora.
+zhongli_00573.wav|You have never heard my explanations on the subject, and yet you still avoided every taboo.
+zhongli_00456.wav|It has been quite some time since we last spoke over tea. I believe a thorough retelling of your latest exploits is long overdue.
+zhongli_00461.wav|Rex Lapis may be the Prime of Adepti, but he is ultimately an adeptus. Many adepti have left us over the millennia — this is the inexorable trend.
+zhongli_00070.wav|Not so fast. The incident occurred six days ago. Even if they set out on foot, they will have covered a lot of ground by now.
+zhongli_00218.wav|Well, you may never have heard of this hero, but it seems youve heard of Mora nonetheless, thus I will simply pay the whole sum.
+zhongli_00252.wav|Perceive? So theres no, conjecture at work?
+zhongli_00630.wav|To me, each day spent with you is as valuable as gold.
+zhongli_00257.wav|Its a shame, There is a fine line between good and evil. If the good and evil within him could be summarized in a single sentence, well, never mind.
+zhongli_00412.wav|Uncover that answer for yourself in your future journeys.
+zhongli_00869.wav|Violetgrass is a plant that enjoys a moist environment and is best picked after it rains. If you should choose to pick any, be sure to store them appropriately.
+zhongli_00501.wav|Miss, you lack even the most basic archaeological knowledge and can recognize naught but a few simple relics. However, you are an expert when it comes to anything regarding the God of Salt.
+zhongli_00425.wav|So, besides wind erosion, the initial collapsing of the stone spears also played a big part in the formation of Guyun Stone Forest.
+zhongli_00039.wav|Justice flows across the surface of the waters, war rages like a flame, as does that which the Cryo Archon once, yes, these details are masterfully done.
+zhongli_00601.wav|We should look for a place to take shelter. Ill be fine, but we dont want you catching a cold.
+zhongli_00286.wav|I will remain here for a while. I fear that moments of reminiscence like this can only grow fewer.
+zhongli_00431.wav|I left a mark in the vicinity just now. If Uncle Dai does pass through here, it should guide him to us.
+zhongli_00596.wav|If you take the same road as that person, there may be more difficulties ahead. But as long as you firmly believe that you are on the right path, everything has meaning.
+zhongli_00576.wav|So you must be careful to take the time to step back and reexamine yourself. If left unchecked, the wear and tear on your heart may go well past mending.
+zhongli_00381.wav|No matter how weak the god, the power that flows forth when they are slain is beyond the strength of mortal coils to bear.
+zhongli_00774.wav|Forgive us, we were unable to fulfill our end of the contract. We found no trace of the Cocogoat adeptibeast of which you speak.
+zhongli_00358.wav|Salt. And betrayal.
+zhongli_00744.wav|Golden House Maiden, Valley Weaver, and Fates Yearning. One of each to start with, if you dont mind.
+zhongli_00127.wav|But this is the only Rite of Parting to take place for one of The Seven in three thousand seven hundred years. As such, I do think we should honor tradition down to the last detail in this case.
+zhongli_00251.wav|Yes, but the only one object per claim clause still holds true. You cannot take two relics at the same time.
+zhongli_00751.wav|Indeed. Let us meet near the harbor at Third-Round Knockout.
+zhongli_00164.wav|The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.
+zhongli_00886.wav|The occasional error is not to be avoided,
+zhongli_00394.wav|We should ask around a little, just to be safe.
+zhongli_00273.wav|Osmanthus wine tastes the same as I remember, But where are those who share the memory?
+zhongli_00056.wav|This has been newly dug. It would appear our answer is up ahead.
+zhongli_00352.wav|The Rite of Parting requires helping hands as well as materials. We should be able to find some people near the harbor.
+zhongli_00234.wav|I, cant say I agree.
+zhongli_00846.wav|Uh, Well. I suppose well just leave such troublesome matters to the Liyue Qixing to debate.
+zhongli_00033.wav|I have my courtesy. When the time comes, please accept it without worries.
+zhongli_00182.wav|Traveler, Childe has told me a lot about you. Since you have had dealings with the Anemo Archon, could I ask you to help me prepare the Geo Archons last rites?
+zhongli_00263.wav|A thousand years ago, Azhdaha attacked The Chasm. I tried to obstruct him, fighting him tooth and nail down the length and breadth of the mine. Finally, I brought him down, and sealed him underground.
+zhongli_00055.wav|I should think that in the Raiden Shoguns eyes, it is precisely because they are divine blessings, that they should be under the sole dominion of divinity.
+zhongli_00022.wav|The Electro Archon, Baal — and just as the people of Liyue preferred to call me Rex Lapis, she too goes by another name among locals in Inazuma.
+zhongli_00660.wav|Indeed. In ages past, Havrias story served as a warning to me as well.
+zhongli_00591.wav|The market is closed and the port has settled. Go get some rest.
+zhongli_00540.wav|You are one who crosses the celestial atlas, and who passes through countless worlds. If our history is engraved in your memory, it will one day accompany you into another world.
+zhongli_00264.wav|Exactly.
+zhongli_00292.wav|Ah, yes. I have yet to go and see Childe. So as for the jewelsmiths remuneration,
+zhongli_00490.wav|Oh? You want me to decide? That is fine as well.
+zhongli_00244.wav|If it were me, the answer would be simple.
+zhongli_00756.wav|A millenniums worth of stories cannot be told in one moment.
+zhongli_00246.wav|As I recall, there is a military supply post from that period somewhere inside the Pass.
+zhongli_00076.wav|Lets go take a look at the mechanism Miss Wanyan just mentioned.
+zhongli_00128.wav|I know but little about history and I wouldnt dare to brag. But discussion is meaningless if everyone has the same opinion, no?
+zhongli_00372.wav|Good morning. Though your journey be fair, do not unduly tire yourself.
+zhongli_00566.wav|I need to find a better way of recording history in order to engrave its truth.
+zhongli_00200.wav|Oh, youre back. Dont worry, I havent waited long.
+zhongli_00763.wav|The times have changed — you must have felt it too when you were at Jueyun Karst.
+zhongli_00488.wav|Its certainly a possibility.
+zhongli_00489.wav|Treading old ground, telling old stories,
+zhongli_00042.wav|I dont like seafood. Just seeing it reminds me of that, slimy texture, and that scent that just wont wash off. As for why I hate it, *sigh* Its a long story, so lets just say my memory is a little too good.
+zhongli_00000.wav|Dihua Marsh used to be full of Glaze Lilies. It is a sort of joyful flower that listens to human song.
+zhongli_00229.wav|This should be enough to garner some information. Lets head back.
+zhongli_00204.wav|Thats right, which is why I continued to safeguard the Gnosis until now.
+zhongli_00621.wav|I cannot say.
+zhongli_00109.wav|I will do my best. You have my thanks.
+zhongli_00819.wav|Should you find yourself gripped by fear or panic, simply retreat behind me and follow my lead.
+zhongli_00380.wav|Were drawing closer to our goal. I believe we should continue to follow this road through. Now that weve found one, the others wont be far away.
+zhongli_00355.wav|Even the lengthiest of battles have their end. As for how long this one shall last, I suppose that remains to be discovered,
+zhongli_00695.wav|When theres a contract, nothing can be allowed to slide. If the contract is not followed, then it is broken.
+zhongli_00453.wav|I possess but a smattering of trivial knowledge. My traveler friend is the one to watch — they are on track to set foot in every corner of the world.
+zhongli_00731.wav|This includes Osial, Overlord of the Vortex, who the Jade Chamber most recently returned to this ocean prison,
+zhongli_00808.wav|Oh, its no problem at all. But may my friend accompany us? Perhaps they could be of some help.
+zhongli_00770.wav|Your decisions hold my trust.
+zhongli_00685.wav|If we can retrieve the spare parts from where they are stored, we may be able to repair the Guizhong Ballista. One just needs to understand the basic working principles of the device.
+zhongli_00153.wav|The atmosphere is pleasant and to my liking.
+zhongli_00539.wav|It has been a long time since I last set foot in the nation of wind.
+zhongli_00060.wav|Make no hasty conclusions.
+zhongli_00473.wav|Oh? I didnt think I would see you here.
+zhongli_00207.wav|My friends. Have you been doing well?
+zhongli_00530.wav|Traditionally, we call it the Exuvia.
+zhongli_00052.wav|Its a shame that I didnt think of it at the time.
+zhongli_00017.wav|The outcome of a card game can be hard to predict, It seems like my preparations were inadequate.
+zhongli_00513.wav|As you please.
+zhongli_00400.wav|If my friend espies a treasure chest, they will absolutely find a way to open it.
+zhongli_00671.wav|Hence, I need you to help by asking around in the city. Try the common folk, especially women.
+zhongli_00134.wav|It is done. The Guizhong Ballista is more intricately designed than I thought.
+zhongli_00604.wav|There are four pickaxes missing. It seems likely they left with the tools of their trade.
+zhongli_00233.wav|So you mean to say that this is work for the Wangsheng Funeral Parlor, yes?
+zhongli_00590.wav|How he came to be here is what we need to understand.
+zhongli_00700.wav|Oh,
+zhongli_00650.wav|Indeed they can. However, only a minority can survive for long periods of time.
+zhongli_00382.wav|The time of the adepti has long passed. If even the Liyue Qixing dont want to face that truth, then what future is there for Liyue?
+zhongli_00767.wav|According to legend, the people of the God of Salt, Havria, enjoyed prosperous lives under her protection.
+zhongli_00065.wav|Now, I mentioned before that many gods of old have been sealed beneath the Guyun Stone Forest.
+zhongli_00643.wav|Tianheng in the <color=00E1FFFF>south</color>, Yaoguang in the <color=00E1FFFF>east</color>, Jueyun in the <color=00E1FFFF>west</color>, Qingce in the <color=00E1FFFF>north</color> — All desolate and devoid of life. Liyue is vast, yet even one haven is hard to find.
+zhongli_00357.wav|It was a reunion between friends several centuries ago. Alas, you must have been too preoccupied to secure yourself a portion. Or perhaps our other companions simply availed themselves of faster reflexes on that occasion.
+zhongli_00494.wav|No need to waver. Even when I am constrained by Mora, I have ways of working around my limitations.
+zhongli_00683.wav|Keqing is absolutely right in saying this.
+zhongli_00239.wav|Wild Glaze Lilies have the strongest fragrance. If we want to follow the true tradition of the Rite of Parting, we must grind up the wild lilies and place the powder in a censer of Everlasting Incense.
+zhongli_00712.wav|These markings of tree and leaf pay due honor to wisdom and the passage of time. All this, on a single kite — truly astonishing.
+zhongli_00126.wav|Fortunately, we have plenty of time, so theres no need to rush a decision.
+zhongli_00202.wav|Odd?
+zhongli_00303.wav|They have been eroded by time, forgotten by the people, abandoned.
+zhongli_00101.wav|Next, I would like the two of you to help me borrow the Cleansing Bell.
+zhongli_00341.wav|Very good. It seems you have learned some tricks of the trade.
+zhongli_00765.wav|My dear Qiqi, we didnt bring a prescription, Im afraid. But we do hope that you can still help us find some Everlasting Incense.
+zhongli_00335.wav|,
+zhongli_00572.wav|Perhaps its best that I explain.
+zhongli_00325.wav|Oh, right, Im sorry. I must have forgotten to do that too. Let me see,
+zhongli_00398.wav|In years past, Liyues tradition was that a huge memorial service be held to mark the passing of every adeptus. But this time, the Qixing have made no attempt whatsoever to respect this tradition. It is sacrilege.
+zhongli_00823.wav|Alright, then. Now, would you like to accompany me in taking a trip to Guyun Stone Forest?
+zhongli_00716.wav|Rex Lapis once said: Ones who break their contracts shall suffer the Wrath of the Rock.
+zhongli_00802.wav|Excuse me sir, are you one of the workers here?
+zhongli_00332.wav|Ningguang of the Qixing has always been on her guard against the Fatui. That is in all likelihood why Childe wants to make use of the Wangsheng Funeral Parlors connections.
+zhongli_00581.wav|In the time that Ive known you, Ive come to glean some information about your character and principles.
+zhongli_00250.wav|Oh, Mora. Hmm,
+zhongli_00638.wav|Here for a few tales? I didnt know you two were connoisseurs.
+zhongli_00047.wav|I understand, but I must apologize. This is my contract.
+zhongli_00175.wav|Thats right. The Liyue Qixing have acquiesced to using the same location.
+zhongli_00659.wav|A heart of stone is a heart nonetheless. But I am the God of Contracts, and was, for a time, a god of the people of Liyue.
+zhongli_00632.wav|I will treasure the memories that I made as Zhongli, traveling the streets of Liyue with you.
+zhongli_00654.wav|If Mr. Kliment wants this salt chalice, then the next object we find will belong to Miss Wanyan, according to the contract agreed upon.
+zhongli_00698.wav|Rather, she was a small and weak god who yielded to all other gods. When it came to war, she lost, never able to win a seat among The Seven.
+zhongli_00514.wav|The Wangsheng Funeral Parlor organizes burials. We ensure that those who pass on do so in peace.
+zhongli_00258.wav|Well then, we should go and prepare the <color=00E1FFFF>perfumes</color> used in the Rite.
+zhongli_00321.wav|Card games and chess share many principles. Moments of indecision will often cost you the victory.
+zhongli_00436.wav|The story continues that some among her people realized at last that this gentle, kind, but weak god could never protect anyone in wartime.
+zhongli_00433.wav|Neither path is an easy one,
+zhongli_00872.wav|Perhaps an accident occurred on-site.
+zhongli_00201.wav|As for you, Ms. Xianyun, I presume you must be looking to settle in the city?
+zhongli_00186.wav|But this legend has been around for ages. With the countless scrap collectors and Treasure Hoarders in the area, there probably arent many valuable things left here.
+zhongli_00607.wav|I have imparted the priceless secrets of the jade trade to you. Now all thats left is to put it into practice.
+zhongli_00320.wav|That is the case. And since Raiden is also the Shogun of Inazuma, people call her the Raiden Shogun.
+zhongli_00067.wav|This leads me to my third point. Mr. Kun Jun here made good use of his, expert techniques, to arrive at a conclusion. It was a child that took your men away.
+zhongli_00477.wav|It should be a most splendid occasion.
+zhongli_00826.wav|Since you seem to have some time on your hands, why dont we find a quiet place and Ill share one of my stories with you.
+zhongli_00538.wav|It is as you say. I suppose I overlooked this particular aspect of the transaction.
+zhongli_00167.wav|Beginning a new undertaking is always difficult at first and requires no small amount of effort. And once business is at full steam, the stress of it all only wears away at you over time.
+zhongli_00701.wav|Of course, there are some kinds of flowers that have been preserved and gardened by people in the city. But very few people know that Glaze Lilies may still be found in the wild.
+zhongli_00843.wav|Now, its time that people learn the hidden truth lost to time.
+zhongli_00298.wav|First, there are four missing pickaxes, yet everyday items are still in their place. This suggests that your men didnt leave of their own accord, but were forced to.
+zhongli_00309.wav|I do not pretend to match your rhetoric when it comes to the subject of a life long-lived. I fear that the life of an elemental being is longer than any in this world.
+zhongli_00689.wav|Everything he said is true.
+zhongli_00172.wav|Heading north from The Chasm, well reach Lingju Pass. If this is indeed the path they chose, there will be traces.
+zhongli_00388.wav|Dont try to rush your enemy.
+zhongli_00195.wav|We can leave that to the authorities. Let us focus on the fond farewell for Rex Lapis.
+zhongli_00072.wav|Well only know once she starts singing.
+zhongli_00288.wav|If a day comes when he should recover his strength and return, Ha, I believe that even so, he will be defeated once more.
+zhongli_00877.wav|You two are friends to me. I can assure it brings me no pleasure to disappoint you. But as the God of Contracts, I cannot go back on my word.
+zhongli_00589.wav|But you are capable of finding them and bringing them into the light.
+zhongli_00248.wav|I will wait for you near the Statue of The Seven. Meet me there when the perfume is ready.
+zhongli_00180.wav|However, I am the God of Contracts. For thousands of years, I have made countless contracts. If the deal was of no benefit, then I certainly would not be inclined to agree to it.
+zhongli_00617.wav|Its said that Childe and his reputation have yet again stirred up waves among the inner ranks of the Fatui. Knowing his type, he will be sure to swiftly depose anyone who dares to challenge his actions. Hmm, Come to think of it, there will be a lot of interesting news to be heard the next time we gather for drinks. Care to join me when the time comes, Traveler?
+zhongli_00460.wav|This weather is no good for being on vacation. We should go and take in an opera.
+zhongli_00079.wav|Emergency countermeasures arent my thing.
+zhongli_00649.wav|Well then, Granny Shan, I shall take these back with me. As for the payment,
+zhongli_00628.wav|Unsolicited, and all the more valuable for it.
+zhongli_00562.wav|Of course. How would I know that the bell was with her, otherwise?
+zhongli_00418.wav|While I may no longer be the Geo Archon, I can be considered an old-fashioned citizen of Liyue.
+zhongli_00339.wav|Let me put this move to the test.
+zhongli_00062.wav|There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly.
+zhongli_00136.wav|Indeed, this is where the value lies in research at Guyun Stone Forest.
+zhongli_00173.wav|Never mind, just think of it as a peer-to-peer transaction. That way everybody wins. Sometimes, in Liyue, the art of the deal is simply about victory via mental gymnastics.
+zhongli_00646.wav|Four fully-grown men in a trance-like state, walking ceaselessly day and night, over hills and mountains, led by a child, This is no ordinary incident.
+zhongli_00469.wav|Archons go by many names. The God of Contracts, the God of Commerce, the Warrior God, Morax, Rex Lapis, is the idea that he also has the title of Adeptus so strange?
+zhongli_00797.wav|Your power is nearly spent.
+zhongli_00413.wav|,Lets not analyze it in terms of good versus evil. Rex Lapis placed great importance on the integrity of contracts, so any gods he killed certainly must have broken some kind of contract.
+zhongli_00427.wav|No, indeed. How sharp of you — yet this is not a matter of wisdom. Only age.
+zhongli_00868.wav|Where do you want to go next? If youd like to see Liyues tourist spots, I have a few references.
+zhongli_00517.wav|It is a kind of crossbow turret, installed on Mt. Tianheng by an adeptus in the distant past. An early mechanical device.
+zhongli_00326.wav|Be that as it may, we would do well to keep our guards high.
+zhongli_00139.wav|Indeed, it is as you have guessed.
+zhongli_00445.wav|A fortuitous move.
+zhongli_00429.wav|What we see now is just the part of them that remains. The stone spears hurled by Rex Lapis, all those years ago, were much greater, both in number and in size.
+zhongli_00247.wav|The fact that even I, the oldest of The Seven, have now passed away will only strengthen her resolve to pursue eternity.
+zhongli_00447.wav|Now thats settled, a question, Ahem. Do you have any Mora on you?
+zhongli_00446.wav|My legacy shall now be left to those who come after to debate
+zhongli_00694.wav|Although shes friendly, theres no way of clearly discerning her true intentions.
+zhongli_00365.wav|We dare not refuse it.
+zhongli_00213.wav|Their descendants feared Havrias remnants and lived in terror that she had laid upon them an eternal curse,
+zhongli_00317.wav|The reception, it seems.
+zhongli_00866.wav|At that time, with the chaotic fires of war engulfing the land, even one sliver of peace was a luxury.
+zhongli_00674.wav|Its just a stone slab, but its design is quite unique.
+zhongli_00075.wav|Hahaha, Well, may you find treasure among the stars, even after you have left Teyvat.
+zhongli_00527.wav|The Glaze Lilies used as a disguise were buried with the Whopperflower for too long. The result seems to have surprisingly potent medicinal value. Lets collect what we can of these petals.
+zhongli_00366.wav|And so,
+zhongli_00194.wav|In her last days, she had not even a single blade to defend her people with.
+zhongli_00768.wav|Given the ease of picking Glaze Lilies, I think this was a fitting end to our tasks, in more ways than one.
+zhongli_00141.wav|So youre an appraiser, Mr. Kun Jun?
+zhongli_00810.wav|Well, Traveler, have you gained anything from our adventure so far?
+zhongli_00737.wav|,Thank you, boss. I think I speak for all of us when I say that your generosity has saved our skins.
+zhongli_00852.wav|Let me see, we are still missing some wooden implements over at Yujing Terrace. They arent uncommon objects, so I didnt make any special preparations for them.
+zhongli_00423.wav|But when I say ambience, I refer to a different sort from the one the Teyvat Travel Guide uses to judge other establishments.
+zhongli_00147.wav|Hmm, Strange. These petals look interesting.
+zhongli_00148.wav|Hmm, 2,990,000, Also an innocuous number in and of itself, though practically speaking it is a whole ten thousand less than the original sum of three million.
+zhongli_00786.wav|Liyue is the most prosperous of the seven nations, defended by deities and ruled by the Qixing. As such, the diplomatic maneuverings of the Fatui have gained no purchase here.
+zhongli_00306.wav|Indeed. Hence the need to get going, to fix the damage left in your wake.
+zhongli_00448.wav|Not unlike the ocean tides, so too shall the movement of people ebb and flow. From turmoil to peace, enlightenment to aspiration — human society possesses limitless potential. In another thousand years, the scene we witness here may change in ways that are impossible for either of us to imagine.
+zhongli_00741.wav|Organizing the Rite of Parting should prove to be an enlightening part of your travels.
+zhongli_00254.wav|Azhdaha. I am no longer the Geo Archon.
+zhongli_00091.wav|Yes. Thank you.
+zhongli_00851.wav|Did you find anything?
+zhongli_00519.wav|These things are for the authorities in Yujing Terrace to consider. Trying to help would probably only add to their troubles.
+zhongli_00528.wav|Over the years, Ive heard various rumors with bits of knowledge about seals. Although their references seem rather disorderly, they do in fact contain the secret to breaking seals.
+zhongli_00707.wav|Well since its work, I dont have a choice. A consultant of the Wangsheng Funeral Parlor must respect their duty.
+zhongli_00759.wav|Those who could not flee were thus transformed.
+zhongli_00551.wav|To provide a haven for her people, whose lives had been ravaged by the Archon War, this benevolent god searched all across Liyue.
+zhongli_00090.wav|As of late, Ive been thinking about housing arrangements.
+zhongli_00006.wav|I humbly admit defeat.
+zhongli_00159.wav|Not a turret. A Guizhong Ballista. Also, kindly state your name before you ask a question, its just good manners.
+zhongli_00354.wav|As well as ruling over all of Sumeru, the God of Wisdom, Buer, has a duty to guard Irminsul. Only one who possesses great wisdom could hope to shoulder these responsibilities. All life in Teyvat owes her gratitude for saving Irminsul.
+zhongli_00849.wav|That will give us a chance to continue the topic we were just discussing. Oh, and you should tag along too, {NICKNAME}.
+zhongli_00193.wav|After many years of wind erosion, those stone spears have turned into the unique rock formations we see now.
+zhongli_00058.wav|Have you heard of the origins of the Lantern Rite? In a war, long ago, the people of Liyue would release lanterns to remind their soldiers of the way home, and to never lose sight of themselves. Though in this day and age, I doubt there are any that remember.
+zhongli_00121.wav|Perhaps you dont know. Tradition states that we should decoct perfume from different sub-species of Silk Flower when making an offering to a Statue of The Seven. Rex Lapis will then make his own choice between the scents.
+zhongli_00613.wav|Is the fruit of their strenuous labor
+zhongli_00025.wav|A few everyday items, they must belong to Uncle Dai and his men.
+zhongli_00049.wav|Indeed. How fortunate we are that fate has brought us together again. If you are otherwise unaware, allow me to inform you that Ms. Xianyun is a well-regarded collector and appraiser. She is well-versed in all fields and oft-celebrated for her impeccable taste. You stand to gain much from this opportunity.
+zhongli_00428.wav|So you are saying, you want to break the contract?
+zhongli_00297.wav|Digging a tunnel to this ancient seal
+zhongli_00327.wav|Seven ideals for seven gods, and of these, Eternity is nearest unto the Heavenly Principles.
+zhongli_00313.wav|If you wish to be comfortable while listening, well need a pot of fine tea, two quality chairs, and a pleasing courtyard.
+zhongli_00544.wav|I wonder where we will find them amid these dark tides?
+zhongli_00696.wav|As the Rex Lapis Morax, I can easily create Mora. But since I have chosen to walk this earth as the mortal Zhongli, I should abide by the same rules that mortals do.
+zhongli_00361.wav|Rest easy, I surveyed the area. Theres no danger here.
+zhongli_00720.wav|Well then, I suppose youll have to find a way to get inside this closed nation. Have patience, I suspect that some serendipity must first come into play,
+zhongli_00537.wav|The patterns, the facade, these are all the finger. Noctilucous Jade is a mystical stone used to light up the darkness, and so its brightness is the important thing — it is the moon.
+zhongli_00188.wav|Shall we get going, you and I?
+zhongli_00847.wav|Its certainly a possibility. Well need more clues before any further inference can be made.
+zhongli_00799.wav|Let us make our way to the end of Lingju Pass. If there are no footprints there, it would suggest that the miners are still within the pass itself. However, if we find new tracks, we can follow them wherever they may lead.
+zhongli_00472.wav|Azhdaha,
+zhongli_00858.wav|That is true, but there is no journey that does not end. No meetings without partings.
+zhongli_00543.wav|Mm, it seems that we must. I will keep that in mind. Thanks, both of you.
+zhongli_00641.wav|This, this bit of history is a long story. But you may not like the truth when you hear it.
+zhongli_00183.wav|Ah, something Im rarely short of.
+zhongli_00103.wav|Well then, let us be off. The first step in our preparations shall be to obtain some prize <color=00E1FFFF>Noctilucous Jade</color> worthy of a deity.
+zhongli_00555.wav|Right on time. I myself only arrived moments ago.
+zhongli_00491.wav|As punishment, I will tell you the truth.
+zhongli_00764.wav|Unfortunately, no.
+zhongli_00536.wav|At present, a friend of mine named Madame Ping is the guardian of the Cleansing Bell. She lives near Yujing Terrace. If you ask her, she will know what to do.
+zhongli_00133.wav|Perhaps some tacit connection has formed between us during our journey together.
+zhongli_00640.wav|Hm, As long as you agree to accept it.
+zhongli_00714.wav|Im afraid I must leave now to handle things back at Wangsheng Funeral Parlor. I hope that Director Hu has been able to keep things under control for the moment.
+zhongli_00653.wav|And that just about does it. Our preparations for the Rite of Parting are mostly finished.
+zhongli_00368.wav|,Thats correct. Your singing will surely bring out the strongest fragrance from the flowers.
+zhongli_00424.wav|I see, so youre that sort of person. Its not a bad thing.
+zhongli_00222.wav|Kliments wrongdoing stemmed from greed, yes. But besides greed, there are many other things that may tempt us to break contracts.
+zhongli_00299.wav|They seized the opportunity to supplant Liyues divine protectors, and used the subsequent power vacuum left by my death to quickly gain complete control of Liyue.
+zhongli_00296.wav|This domain affords the opportunity for endless challenges while also providing an ample place to rest. Most fascinating indeed.
+zhongli_00442.wav|Like several other tedious and complicated traditions, this one has become simplified over time.
+zhongli_00557.wav|Indeed. Its second to none in all of Liyue.
+zhongli_00215.wav|Trade relies on both contracts and fairness. There is one thing you must never forget when making and abiding by a contract: if fairness is lost, then the contract shall become proof of ones deception.
+zhongli_00210.wav|I have many stories to tell.
+zhongli_00441.wav|To show my sincerity, I wont be taking any treasure — this will just be between you all.
+zhongli_00268.wav|If you return to those crafty merchants to quibble, they will counter by saying that your crafting bench is to blame, or that your heat control was poor.
+zhongli_00666.wav|When faced with circumstances beyond their control, humans often bemoan their lack of power.
+zhongli_00758.wav|Right, if the two of you can spare the time, I should treat you to a meal at the Xinyue Kiosk.
+zhongli_00096.wav|This stone slab we found, however, has a mysterious pattern and faint aura of divine power. Perhaps it will be useful for research purposes.
+zhongli_00274.wav|,One cannot help but be reminded of old acquaintances.
+zhongli_00386.wav|Done.
+zhongli_00721.wav|I enjoy partaking in walks through the city — when time permits. I find it very calming. Yes, Just when did this feeling begin,?
+zhongli_00567.wav|No — no, I am not debating right or wrong. I am simply stating a fact.
+zhongli_00177.wav|Consider your next course of action carefully, {NICKNAME}. If youre trying to prevent an explosion, it may be wisest to look for the fuse first.
+zhongli_00505.wav|What fills an ordinary person with intrigue is but an aspect of daily life for me.
+zhongli_00796.wav|But I suppose you have yet to experience the substance of Liyues three thousand and seven hundred years of divinity.
+zhongli_00192.wav|After letting go of my Gnosis, I never expected to see a day like this again. Thank you, friend. Ah, yes, I have a new contract here. Care to take a look at it together?
+zhongli_00865.wav|We can discuss matters that fall outside of our contract, too. After all, I have been on this land for a time, and have come to know a thing or two. Of course, I do hope you can do some things for me as well. That would only be fair.
+zhongli_00739.wav|Its no ordinary rough gem. Fragile surface layer, black veining, My intuition tells me that theres high-quality crystal ore inside.
+zhongli_00564.wav|The prospects are still positive.
+zhongli_00636.wav|The archon Morax could never experience life as the true mortal Zhongli could, no matter how many times he descended to be with his people.
+zhongli_00677.wav|Now think, {NICKNAME}, <color=00E1FFFF>Tianheng in the south, Yaoguang in the east, Jueyun in the west, Qingce in the north.</color>
+zhongli_00668.wav|We found three clues in the vicinity.
+zhongli_00524.wav|But Ill need your assistance in gathering these flowers.
+zhongli_00402.wav|Youre right, I do lack the Mora.
+zhongli_00149.wav|,It seems inevitable, given the current situation.
+zhongli_00437.wav|Lets place the perfume weve prepared inside.
+zhongli_00807.wav|Surely the Liyue Qixing are not the sort to give in so easily?
+zhongli_00598.wav|Hmm, correct.
+zhongli_00356.wav|Ah, its a shame,
+zhongli_00772.wav|That rascal from Snezhnaya has yet to depart from Liyue? Heh, no matter. Just let me know if he gives you any trouble. I shall deal with the matter swiftly.
+zhongli_00369.wav|And that haven she eventually found is right here. Today, it is known as Sal Terrae.
+zhongli_00073.wav|Until one drizzly day, as I was strolling along the harbor, I heard a merchant tell one of his workers, Youve finished your duties, go ahead and call it a day.
+zhongli_00752.wav|Who, indeed. Second, there were five workers at the mine. One of them left the site to take respite. When he awoke, his colleagues had disappeared without a trace.
+zhongli_00415.wav|Correct.
+zhongli_00151.wav|Noctilucous Jade of excellent quality would have superior Pyro affinity. In other words, the bluer and brighter the luster of the ore under high temperature, the higher its quality.
+zhongli_00046.wav|Now then, it is time that we consigned both the salt chalice and salt ruler to the sea.
+zhongli_00656.wav|Ms. Xianyun speaks the truth. Contracts are built on honesty and trust. If that proves to be beyond your capabilities in this instance, this transaction may be taken elsewhere.
+zhongli_00582.wav|,to treat you to a meal.
+zhongli_00639.wav|After making countless concessions, Havria had lost all of her lands until only one small haven remained.
+zhongli_00779.wav|The adepti have presently handed Liyue over to mortals, and Havrias time was even further in the past. The salt chalice and salt ruler that she left behind should not return to Liyue.
+zhongli_00762.wav|Hah, On the contrary, I think it is excellent. I had always feared that it was too soon for them to take over from me, and it was also that which I longed for the most. As such, this is the best parting gift anyone could have given this god of old.
+zhongli_00500.wav|Even boulders that can withstand whirlpools will erode with the passing of time. I kept convincing myself that cracks had not begun to form and that the end of my time had not yet come.
+zhongli_00841.wav|During that battle, Dragonfall was born. Azhdaha could sense the stone. Subconsciously, he wanted to use it to find me.
+zhongli_00191.wav|Four or five days ago? It appears that they were moving slower than wed anticipated. Traversing the geography of Lingju Pass must have held them up.
+zhongli_00375.wav|Even bedrock can be turned to dust,
+zhongli_00631.wav|Hmm, someone who understands geology and ore,
+zhongli_00027.wav|Even without a god above, this remains a nation of men. I was once their god, I ought to be here to witness their rise and fall.
+zhongli_00211.wav|And they took this road?
+zhongli_00154.wav|I shall confiscate your treasure as well.
+zhongli_00859.wav|So you are already decided? Hmm, Then there is a price to pay for breaking the contract.
+zhongli_00780.wav|The greater the power, the greater the danger erosion may bring about. The millennia may come and go, but even a stone may tire.
+zhongli_00658.wav|You are not worthy to continue any further into the ruin. Leave this place.
+zhongli_00294.wav|Why, Mora, of course.
+zhongli_00444.wav|Ugh, Im feeling a little, off,
+zhongli_00483.wav|When you stick this ruler in the ground, the surrounding area will become covered in salt, much like a rising tide covers the earth.
+zhongli_00107.wav|As I said before, I only state the facts.
+zhongli_00861.wav|,
+zhongli_00648.wav|Those who kept working all disappeared. The one who left early emerged safe and sound. It would appear that the incident occurred on-site.
+zhongli_00781.wav|Hm, So youre interested in my past.
+zhongli_00443.wav|Quite so. I dont know where to begin.
+zhongli_00013.wav|But should you be willing to listen, we can talk over cups of tea.
+zhongli_00145.wav|Ah, youre here. Theres no need to order, Ive already done so.
+zhongli_00622.wav|So I feigned my own death, and gathered the cast of Childe, the adepti, and the Liyue Qixing to play their roles together on the stage that was Liyue.
+zhongli_00747.wav|No, its just, Where should I begin?
+zhongli_00645.wav|Whatever for? Am I not addressing you as a friend should?
+zhongli_00766.wav|What say you to such a gathering?
+zhongli_00063.wav|This is order.
+zhongli_00470.wav|Hah, An invitation to visit the Jade Chamber is a rare honor, indeed.
+zhongli_00569.wav|Though the salt chalice and salt ruler do have power in their own right, they are nothing before Osial.
+zhongli_00227.wav|I stood motionless among the crowds, asking myself, Have I already finished my duties?
+zhongli_00828.wav|Dont forget, rescuing those miners is the primary objective. As for anything else, Sooner or later the tide will reveal the lie of the land.
+zhongli_00831.wav|Thats because you dont just need to activate them at the same time, but in a certain order as well. Otherwise, the seal will not be broken.
+zhongli_00030.wav|Haha, I must thank you for that.
+zhongli_00312.wav|The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.
+zhongli_00132.wav|Unless something happened, something that led him to fall behind.
+zhongli_00245.wav|I have witnessed much from you. Our time is boundless, A carefree life relies upon a resolute and clear heart.
+zhongli_00217.wav|The questions that such travels raise are ever so complicated. Well, Ill leave you to ruminate over it yourself. As to remuneration for your help, Ive decided,
+zhongli_00054.wav|Even I cannot avoid it. But there is something I understand better than most: When the door opens, it is time to leave.
+zhongli_00691.wav|Okay then, I will go with my friend here. Although I have a smattering of knowledge in various disciplines, when it comes to archaeology, I cant compete with the expert here.
+zhongli_00308.wav|Workers in this trade are usually young men in the prime of their lives. Could it be that the four of them left for another mine?
+zhongli_00199.wav|Hes worked himself into a stupor. Thankfully, hes not in serious danger.
+zhongli_00093.wav|If you point at the moon with your finger, a wise man knows that you are pointing at the moon, while a fool will only see the finger.
+zhongli_00196.wav|An adeptus,
+zhongli_00743.wav|,
+zhongli_00496.wav|Huh, this child, Did you see what they look like?
+zhongli_00005.wav|I dont believe so. The Guizhong Ballista, at least, I have heard of before.
+zhongli_00782.wav|The contract is fulfilled. That which thou seeketh is now bestowed unto thee, for my promise is solid as stone.
+zhongli_00565.wav|Indeed. Otherwise, why would I use the truth as punishment? I did not want to tell her such cruel facts, but the contract was broken,
+zhongli_00885.wav|Third-Round Knockout is not for lightweights, like those taverns in Mondstadt. Here, the owner does not take such unorthodox orders as fruit juice.
+zhongli_00836.wav|A friend of mine from Mondstadt would always bring a few bottles of locally brewed dandelion wine whenever he came to visit me in Liyue.
+zhongli_00597.wav|I think thats all we needed to hear. Thank you.
+zhongli_00725.wav|One moment, I will try to repair the device,
+zhongli_00389.wav|Most crystals are born in high-temperature environments. Heat and water arent natural bedfellows of course, which is why crystals with water deposits are so sought-after. Moreover, this particular crystal contains mountain lake water. A rare find indeed.
+zhongli_00830.wav|But, thank you. I will take good care of it.
+zhongli_00393.wav|That is to say, you consign yourself to suffer the Wrath of the Rock.
+zhongli_00757.wav|But this friend of mine has a treasure-finding talent surpassed by no one. It will surely be of great help to us.
+zhongli_00803.wav|Yes. The truth that I am about to tell you shall be your price to pay for breaking the contract.
+zhongli_00629.wav|In the end, the resolution to all that has transpired was even more satisfactory than I could have hoped for.
+zhongli_00111.wav|Now, now, calm down, no need to make a fuss. We were able to bring back some intriguing objects. Lets have a look.
+zhongli_00599.wav|That is a good question. In the past, I might have given you a most specific answer.
+zhongli_00287.wav|How have you been?
+zhongli_00253.wav|The past, Then let us find a free day to take our time and talk.
+zhongli_00609.wav|We should inquire with anyone nearby. If the miners came through here, they may well have seen them.
+zhongli_00364.wav|Why, you flatter me, Ms. Xianyun. It would seem that you are as self-effacing as ever.
+zhongli_00069.wav|Take the adepti, for instance. Owing to their years of seclusion, they were the least informed. Yet, when faced with a crisis, they, commendably, showed the greatest amount of restraint possible. Not only did they manage to co-operate with the Qixing, but in the end, they even made efforts to understand the hearts of the people.
+zhongli_00697.wav|But there is a way to truly evaluate this jade, and a true insider would know it.
+zhongli_00856.wav|To get people to abide by a contract and act in accordance with the guidelines set out within is simply to ask them to respect the concept of fairness. It is not a large request. How are there those who still do not understand such simplicity?
+zhongli_00857.wav|As for the bargaining chip that the Tsaritsa used to balance the scales,
+zhongli_00037.wav|I hinted as much to the adepti as well.
+zhongli_00214.wav|,
+zhongli_00738.wav|Before entering the ruin, I have a proposal that will help us prevent the kind of senseless arguing between you two that we saw at Guyun Stone Forest.
+zhongli_00790.wav|I admire your enthusiasm, good sir.
+zhongli_00682.wav|In Liyue, where the God of Contracts reigns, only contracts may not be betrayed. I for one have no issue with little maneuvers outside their remit.
+zhongli_00387.wav|Well then, lets go.
+zhongli_00771.wav|That would not do. It is a place where people come and go. They would be endangered if the elemental reaction were to get out of control, We cannot take such a risk.
+zhongli_00559.wav|Compose yourselves. I will lead us in.
+zhongli_00440.wav|Hmm. I suppose it would not hurt to tell you. We need them to make implements for the Rite of Parting.
+zhongli_00105.wav|How can I put this, When purchasing opera tickets, it is natural to decide based on which singer has the most melodious voice. The same logic applies when purchasing a pet bird.
+zhongli_00097.wav|Well, its settled, then. Lets take this jade to Yujing Terrace. Thats where we plan to hold the Rite,
+zhongli_00256.wav|The design of this kite displays a firm grasp on the cyclicality and eternity so dear to the Electro Archon.
+zhongli_00351.wav|To leave them here is to let them slumber, and it is also a homecoming,
+zhongli_00529.wav|Well, now that this is settled, we must head back to Yujing Terrace. Mr. Childe, Dr. Baizhu, Little Miss Qiqi, see you soon.
+zhongli_00600.wav|So they risked their lives to come here to break the sword, and offer up obeisances in hopes that her anger might be appeased.
+zhongli_00606.wav|But as I began to consider relinquishing my divine role, I soon discovered that many reasons still remained to not hastily depart.
+zhongli_00124.wav|In the city of commerce, we do not merely exchange money or goods. We also exchange knowledge, memories, and foresight, as well as positions, roles, and lives.
+zhongli_00216.wav|A search using the Guizhong Ballista revealed no significant life forms nearby, save for the usual wildlife.
+zhongli_00170.wav|Zombies are limited to acting within the confines of their orders. And somehow, in this case, the zombie issues her own orders to herself.
+zhongli_00310.wav|I see. Using a Vision harnesses elements. As far as the common folk are concerned, this is no small feat. So, back then, they were aware of this as they stood beside me,
+zhongli_00043.wav|,Childe, you are as fond of jokes as ever. Well then, since weve purchased our kites without incident, theres no need to take a break before moving to the next step in our preparations.
+zhongli_00605.wav|Do they intend to exercise force?
+zhongli_00155.wav|You should call it by its name, Azhdaha, fate.
+zhongli_00276.wav|Silk Flowers exhibit different properties based on how their environmental conditions differ from their ancestral habitat, Nevertheless, these are fine specimens. Excellently preserved.
+zhongli_00547.wav|This tablet was erected by Mountain Shaper. It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place, from the seal.
+zhongli_00702.wav|Being with you like this is truly a lively and joyous experience.
+zhongli_00223.wav|While we add the high temperatures using Pyro, we can use Hydro to reinforce it from within. This way, the samples will not disintegrate immediately.
+zhongli_00462.wav|That would be my pleasure. What would you like to discuss?
+zhongli_00534.wav|Dragonfall is often used in forging. What use do you have for it?
+zhongli_00285.wav|So the men that were out working disappeared, with the only one left to tell the tale having been asleep in a shelter.
+zhongli_00417.wav|Indeed, I was. The Gnosis which I had kept for so many years suddenly seemed to have lost its meaning.
+zhongli_00634.wav|I will explain it to you. But our next course of action should probably be to purchase the kites first.
+zhongli_00197.wav|Im afraid to say that the God of Salt, Havria, was not the powerful god you imagine her to be.
+zhongli_00532.wav|,
+zhongli_00734.wav|This is correct.
+zhongli_00014.wav|Hahaha. Why would I not feel more at ease after laying down the burden I have borne for 3,700 years?
+zhongli_00131.wav|No, perfumes used to honor the gods must be freshly decocted. The quality of the <color=00E1FFFF>Silk Flowers</color> we require is also special.
+zhongli_00754.wav|Dragonfall is an incredibly rare ore used in forging. The majority of regular crystals are formed in high-temperature environments. Dragonfall, on the other hand, is formed as a product of elemental reactions.
+zhongli_00336.wav|I hear many merchants of Liyue tell tales of a Ms. Xianyun. By most accounts, she appears proud and taciturn upon first glance, yet in conversation, people find her to be forthright and fair-minded, and they are pleased to make her acquaintance. I am glad to hear this. But, I have also heard a great many accounts lauding her readiness to part with large sums of Mora,
+zhongli_00422.wav|Hehe, I mean, I am talking about Rex Lapis.
+zhongli_00692.wav|As you have seen, the time of the adepti is ending, and the time of mankind is slowly dawning.
+zhongli_00156.wav|Ive heard that Ningguang is busy milking that for all its worth on the foreign relations front at the moment, browbeating the envoys of the Fatui,
+zhongli_00541.wav|Noctilucous Jade, of radiant grade at the very least.
+zhongli_00479.wav|I may know something about it.
+zhongli_00732.wav|Just look at the abundant foliage here. And these stamens, glamorous as a maiden of the Golden House. This strain is an evergreen, and mostly grows under complex hydrological conditions.
+zhongli_00112.wav|She is the most impious of the Qixing — but I actually find the conviction of such people quite endearing. The only reason I was able to consider taking a step back from such overarching management of Liyue was because there are people like her. People who speak up when they believe themselves to be right, and then go and do something decisive about it.
+zhongli_00187.wav|Stone-seeing, fascinating. A rare ability indeed. It was prudent of Uncle Dai to recruit you, Mr. Kun Jun.
+zhongli_00871.wav|Then lets move on, shall we?
+zhongli_00363.wav|Ha, that tone does not suit you. Still, her teapot is indeed very good. There are none better for brewing tea.
+zhongli_00066.wav|The worlds first Mora is probably just an ordinary coin created by Rex Lapis. As for its fate? The same as all Mora, I suspect — it was simply spent somewhere.
+zhongli_00373.wav|Tut-tut. Vandalizing the legacy of an adeptus for selfish gain. Disgraceful behavior.
+zhongli_00568.wav|Since you seem to have some time on your hands, why dont we find a quiet place and Ill share one of my stories with you.
+zhongli_00032.wav|Youre leaving?
+zhongli_00717.wav|This sword is not a relic belonging to the God of Salt, but is instead the murder weapon used to kill her.
+zhongli_00408.wav|I apologize, but I wont be able to come with you this time.
+zhongli_00610.wav|We wont solve anything while standing here and racking our brains. Lets return to Bubu Pharmacy, explain that we could not find a Cocogoat, and review our next step.
+zhongli_00670.wav|Why is it that once you finally get a break, rather than taking a rest, you instead come to me? Is it that you want to hear one of my stories?
+zhongli_00815.wav|,
+zhongli_00371.wav|Sure.
+zhongli_00829.wav|It is not we who need reprimanding, but you.
+zhongli_00523.wav|Let me lead the way from here.
+zhongli_00057.wav|Oh, a private fund? Hmm, this does seem like a good, logical, common-sense idea.
+zhongli_00262.wav|No. These are people.
+zhongli_00833.wav|When youre well-rested, call Mr. Kun Jun over to us. We still have more investigation ahead.
+zhongli_00114.wav|These are the advance funds that Childe has provided. If you use them up, you can go to him to apply for any subsequent funding.
+zhongli_00719.wav|I, Surely no prescription is needed to purchase Everlasting Incense? Its not a controlled substance,
+zhongli_00120.wav|Time tempers all volition. Yet she would give up everyone for her beliefs. Perhaps it is for this very reason that she has come to where she stands today, Should the chance come by me, I too would like to learn of the Eternity for which she so earnestly endeavors.
+zhongli_00409.wav|This experience may be of help to you on your future adventures.
+zhongli_00108.wav|All of you, come here.
+zhongli_00463.wav|Guyun Stone Forest is a place where a god was defeated, and its remnants still affect the area to this day.
+zhongli_00377.wav|Yes. The nation has been closed by order of its deity.
+zhongli_00275.wav|Happy birthday. This is a dried Glaze Lily that came into bloom on the day of your birth. Long ago, the people of Liyue would say that this flower blooms bearing the weight of the beautiful memories and prayers of the land. I believe this to have applied on the day you were born as well.
+zhongli_00228.wav|Thank you, friend.
+zhongli_00374.wav|Youve brought a smile to my face. When all is said and done, a reunion between old friends is an auspicious occasion.
+zhongli_00805.wav|Haha, lets not get ahead of ourselves. Still, I do have a claim to some experience in this field.
+zhongli_00161.wav|Ah, I have certain reasons why I cannot be there in person. Please do this for me.
+zhongli_00395.wav|If we are agreed, come with me. We will speak of the details as we walk.
+zhongli_00405.wav|Mora. My apologies, another oversight on my part.
+zhongli_00316.wav|On the contrary, I just hadnt anticipated receiving a gift during the current circumstances.
+zhongli_00715.wav|Only after the item made using Noctilucous Jade has taken shape, will you be able to see whether it is up to par or not.
+zhongli_00574.wav|But if this journey was to your liking, why dont you come along the next time I am seeking to preserve memories of Liyues past?
+zhongli_00160.wav|May that which Havria has left behind be yours to subsume
+zhongli_00163.wav|Oh? Why are you hanging back here? Dont you want to get closer to the action?
+zhongli_00166.wav|Now then, is there anything else you wish to ask me?
+zhongli_00458.wav|*sniff* Tsk, It reeks of wine. That bard has just been through here, hasnt he? That drunkard is a disgrace to the arts. Oh, Has he tricked you into getting drunk? Youre slurring a little. Wait a moment, Ill brew a pot of sobering tea. Itll be ready in only six hours, so just wait a moment.
+zhongli_00740.wav|Next, we need some Everlasting Incense. For this, we need to go to Bubu Pharmacy, the finest pharmacy in all of—
+zhongli_00769.wav|The deeper it is stuck in the ground, the more salt will appear. It is essentially a bumper harvest of salt.
+zhongli_00181.wav|You appear to have taken his claim quite personally on my behalf.
+zhongli_00345.wav|,
+zhongli_00021.wav|Im afraid that this whole tunnel
+zhongli_00788.wav|,Perhaps that punishment would be easier for her, but,
+zhongli_00637.wav|That is correct, indeed.
+zhongli_00611.wav|That said, the reason why the Qixing were so eager to resolve the incident and stop pursuing the culprit was indeed because they received news in secret that Rex Lapis was not dead.
+zhongli_00618.wav|Solidify.
+zhongli_00142.wav|Because I can bring you to see Rex Lapis vessel.
+zhongli_00330.wav|I hope today too shall be prosperous.
+zhongli_00850.wav|It would appear that they made their way through Lingju Pass and kept moving.
+zhongli_00531.wav|So it is for Havria, and so it is for Morax also.
+zhongli_00493.wav|He was willing to be sealed away. But as the erosion set in, he forgot.
+zhongli_00795.wav|It stands to reason that the creator of this realm holds lofty expectations for those who enter.
+zhongli_00497.wav|I neither know nor do I wish to know. As far as I am concerned, the Fatui are merely financial sponsors. I only wish for Liyues traditions to endure.
+zhongli_00478.wav|Thank you, Azhdaha.
+zhongli_00545.wav|Despite being the victor, I could not claim to be stronger than he. And in his heart, he still retained an ounce of good will towards me, towards Liyue, towards life above ground.
+zhongli_00231.wav|One must think that they already have someone in mind. Or perhaps they already know. Surely they must have found all the evidence that there is to find here.
+zhongli_00801.wav|Wait, I believe were missing someone.
+zhongli_00338.wav|Personally sealing away an old friend, this is just one form of erosion I have endured.
+zhongli_00420.wav|I fear that continuing your journey may be difficult. The nation that neighbors Liyue by sea, Inazuma, is presently closed.
+zhongli_00236.wav|Therefore, I thought of you, Traveler.
+zhongli_00704.wav|Agreed.
+zhongli_00284.wav|Oh, so you also met with Keqing, then? What did she have to say?
+zhongli_00791.wav|There was once a drink I used to enjoy with friends — long ago, Is it because the climate has changed? A shame I will never be able to relish in its smooth flavor again.
+zhongli_00800.wav|No, I need you to sing to them. Singing to the flowers will make them more fragrant.
+zhongli_00614.wav|Think nothing of it.
+zhongli_00854.wav|Take a rest. Leave it to me.
+zhongli_00778.wav|Before the Rite is conducted, the Exuvia will be kept temporarily in the Golden House.
+zhongli_00492.wav|,
+zhongli_00083.wav|By contrast, this variety thrives in any dark, damp location, often in large clusters. Morphologically, it is distinguished by the profusion of petals and densely packed stamens, though its powerful scent gives it away just as easily.
+zhongli_00008.wav|They had time to take their tools, but not their everyday items? Curious.
+zhongli_00688.wav|Realistically speaking, there is no such thing.
+zhongli_00074.wav|But if a person shows true strength of will at a desperate and fateful moment in their life, the gods will look upon them with favor.
+zhongli_00873.wav|The night grows darker, so rest when you can. May you have pleasant dreams.
+zhongli_00794.wav|,As I thought, I didnt bring any.
+zhongli_00706.wav|The Anemo Archon is the God of Freedom, and the Geo Archon is the God of Contracts. For her part, the Raiden Shogun is the God of Eternity. It seems as though she has finally decided to eliminate any unstable elements that could pose a threat to her eternal realm.
+zhongli_00315.wav|Apparently, not quite, This is the first I have ever heard of the Cocogoat.
+zhongli_00084.wav|Most of the objects from that time were lost to the sea, but the gigantic waves created by the Overlord of the Vortex have given those sunken objects a chance to see the light of day again.
+zhongli_00814.wav|Lets follow her deeper into the ruin. There, I fear, we will find something that will leave her no choice but to face the truth.
+zhongli_00516.wav|Troubling ourselves over this rabble is not worth the time. We should focus on our contract with Qiqi.
+zhongli_00150.wav|Despite the multitude of affairs that she deals with in a day, Ningguang always continues to press on. A rare gem indeed. Im reminded of the time that she used to walk barefoot from Yaoguang Shoal to the south wharf, trying to sell her wares as she went. Time is cruel to humans.
+zhongli_00304.wav|It is a story from before the rise of The Seven, Although the God of Salt has already perished, it will still be a meaningful experience for your journey.
+zhongli_00152.wav|Haha, dont trouble yourself. This place will do just fine. We can sit down and take our time chatting.
+zhongli_00391.wav|This place appears to be well-furnished. A long table, appropriate equipment for preparing tea, With enough people, a gathering could certainly be organized here.
+zhongli_00089.wav|A humble employee of Wangsheng Funeral Parlor. Pleased to make your acquaintance.
+zhongli_00777.wav|Now that weve made our choice, lets take this Noctilucous Jade back.
+zhongli_00110.wav|I do.
+zhongli_00376.wav|What shall we do?
+zhongli_00220.wav|But they need not have done so. For how could a god who had never once resisted — even till the end — nurse hatred for her people in her heart?
+zhongli_00144.wav|Desperate times?
+zhongli_00343.wav|During the battle, you embued us with your power,
+zhongli_00051.wav|Thank you both. Let us offer them up.
+zhongli_00508.wav|Naturally, of course. But I must add, Liyue is no longer Moraxs Liyue.
+zhongli_00146.wav|Liyues prosperity has not merely been built on Rex Lapis oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past, You should ask her about it. I fear my wording would not be delicate enough to receive her approval.
+zhongli_00662.wav|Ha, this is getting interesting.
+zhongli_00664.wav|Ah, those poor Snezhnayan diplomats. If it were not for Childes exalted position as a Harbinger, Im certain that they would have shifted all the blame to him and called for his dismissal by now.
+zhongli_00045.wav|Stabilize.
+zhongli_00198.wav|Guyun Stone Forest is actually the perfect place to be if you wish to learn about the gods or the history of the Archon War.
+zhongli_00467.wav|See that object in the center? Perhaps it emits the remnant strength of the god. That would certainly attract them.
+zhongli_00742.wav|But due to the different angles they landed at, their large centers of mass, erosion by seawater, and years of gravity, many of them have been completely swallowed by the sea.
+zhongli_00350.wav|We believe that they followed the road north, away from the mine and toward the ruins.
+zhongli_00007.wav|Until they opened the gate
+zhongli_00430.wav|These parts look useful.
+zhongli_00811.wav|A walk would be nice.
+zhongli_00798.wav|I had sensed that something was amiss when you mentioned Dragonfall. Had your power been but a little stronger, I wouldve recognized you.
+zhongli_00209.wav|Evaluating the quality of Noctilucous Jade is indeed very tricky. As crude ore, there is little difference in texture, lustrousness, and internal pattern between good and bad Jade.
+zhongli_00864.wav|That is how the Fatui have always been. It doesnt surprise me in the least.
+zhongli_00813.wav|Do you intend to use your neutral identity as an intermediary between both sides? Or, will you use your sword to turn the balance?
+zhongli_00723.wav|While Ive lived many years, Im not inflexible enough to be incapable of appreciating youthful trends.
+zhongli_00080.wav|We shall not speak of the details right now. Follow me, we shall go to the merchants to purchase our ingredients.
+zhongli_00840.wav|The Liyue Qixing have agreed to this arrangement.
+zhongli_00619.wav|Contracts cannot be used to define friendship, nor measure sentiment. So just what can we use to measure the weight of our emotions? Do you know the answer, friend?
+zhongli_00578.wav|Compared to the watch that Rex Lapis statues have kept over Liyue, this was but a brief moment.
+zhongli_00465.wav|You will have to rely on your own experience to find whatever treasures are hidden in this ruin, as well as traps.
+zhongli_00585.wav|No matter. If that day comes to pass, Liyue must prepare itself to face you.
+zhongli_00452.wav|Traveler, Does Dragonfall mean anything to you?
+zhongli_00745.wav|This meant I could remain as Zhongli, even having the chance to fulfill the age-old traditions of Liyue in this mortal form. Thank you for joining me on this journey, Traveler.
+zhongli_00787.wav|Gold is Liyues treasure. It is the blood that runs through her heart. As for whether your own heart shines like gold — we will have to wait and see.
+zhongli_00024.wav|Today I am just an ordinary citizen of Liyue.
+zhongli_00736.wav|Yes. I have already rented this location, and have begun making preparations for the rite.
+zhongli_00143.wav|Oh? Ah yes, dont worry. I will remember to bring the Mora this time.
+zhongli_00314.wav|Hah, Ive had enough ventures in my life already.
+zhongli_00019.wav|Well, we were only spending Fatui money. You dont have to say it like that,
+zhongli_00681.wav|{NICKNAME}, we were just discussing the history of Rex Lapis. Would you like to listen?
+zhongli_00035.wav|Hahaha, I see. Well then, it will be my pleasure to accompany you.
+zhongli_00481.wav|This residence of yours has unique scenery and elegant furnishings which I find very attractive.
+zhongli_00667.wav|Strictly speaking, asking for samples when we have not yet agreed to purchase the goods is unfair. Trade in Liyue must be based upon fairness.
+zhongli_00401.wav|However, during such a long war, there is no end to the advances of aggressors.
+zhongli_00016.wav|Well need to explore the site ourselves before extracting any conclusions.
+zhongli_00116.wav|The current overseer of the funeral parlor? Ahem. I cannot deal with that child.
+zhongli_00450.wav|Silk Flower petals contain a fibrous material of good quality, often used in brocade-making. Its scent, however, is most elegant, and is especially suited for solemn events like giving offerings to gods and adepti.
+zhongli_00322.wav|Before the Archon War, Dihua Marsh was all dry land and fertile soil. But the war caused landslides and the land was flooded, turning it into the marsh you see now. Nearly all the Glaze Lilies were wiped out.
+zhongli_00525.wav|Rex Lapis just meant for Mora to serve as a catalyst for people to exchange and trade.
+zhongli_00735.wav|They were probably followers of the God of Salt.
+zhongli_00068.wav|One: They were working close by and didnt need to move their personal effects. But seeing as theyve yet to return, this seems an unlikely hypothesis.
+zhongli_00818.wav|Something, for us?
+zhongli_00449.wav|Judging by his appearance, he must have collapsed from exhaustion.
+zhongli_00081.wav|Hmm, Three million, An innocuous number in and of itself, though practically speaking, it could be a hard sum to come by.
+zhongli_00711.wav|Indeed. But the God of Salt imbued it with another power.
+zhongli_00874.wav|That is true. Well, have you brought the perfumes?
+zhongli_00328.wav|Thats not all. Our scholar was attacked by Geovishap Hatchlings, but the level of aggression they exhibited was, unusual.
+zhongli_00548.wav|A conclusion that is presently impossible to reach. We must watch, and wait.
+zhongli_00612.wav|Ill take them all, boss.
+zhongli_00822.wav|Oh, however, there is something I wanted to discuss with you.
+zhongli_00760.wav|Very well then, Lets start by investigating near the <color=00E1FFFF>Guizhong Ballista</color>. Perhaps we will find some clues.
+zhongli_00588.wav|It seems my strength is returning. Not a lot, but enough.
+zhongli_00407.wav|During the Archon War, the gods of this world used all their strength and cunning to vie for control of Teyvat.
+zhongli_00392.wav|Call it, part of my duty.
+zhongli_00272.wav|Im afraid that shes probably right — its to do with her orders.
+zhongli_00099.wav|Oh? About what?
+zhongli_00278.wav|It appears your understanding of this world continues to grow.
+zhongli_00853.wav|Thousands of years ago
+zhongli_00679.wav|If it does not bother you, I would like to find a gift for you.
+zhongli_00678.wav|This ancient tree,
+zhongli_00002.wav|Nothing can be accomplished without rules or standards. No matter if it is mortals or adepti, everyone has their place. This rule is what keeps Liyue in peace.
+zhongli_00048.wav|That in truth, not a single member of this archaeological expedition came here for archaeology.
+zhongli_00011.wav|Come with me. All the answers you seek lie ahead.
+zhongli_00824.wav|Ill take them all, boss.
+zhongli_00023.wav|Alright, then. Was there anything else you wished to know?
+zhongli_00403.wav|My agreement with the Cryo Archon will be the last of my contracts as the Geo Archon — my contract to end all contracts.
+zhongli_00129.wav|Did you enjoy your visit to the Jade Chamber?
+zhongli_00484.wav|The ancient god probably left behind lots of elemental marks. Following them should make our search much easier.
+zhongli_00724.wav|These are indeed false accusations, but it remains undeniably true that Childe did send people to the Jade Chamber to prevent the adepti and the Qixing from defeating the ancient god.
+zhongli_00001.wav|Alright then.
+zhongli_00340.wav|I do not give it for free. I give it as agreed upon in the contract, for it is a matter solely between the Tsaritsa and I.
+zhongli_00031.wav|Haha, Mr. Kun Jun, your stone-seeing is something I wont forget in a hurry.
+zhongli_00535.wav|Since you do not trust me, let us continue onward.
+zhongli_00881.wav|Hmm, An oversight on my part.
+zhongli_00038.wav|But starting from last year, the Raiden Shogun began promulgating the Vision Hunt Decree.
+zhongli_00464.wav|Hmm, It is currently inoperable, in any case. This device is broken.
+zhongli_00095.wav|But Havria instead chose to flee. She thought that by giving up before a fight could start, she could save herself and her people from the war.
+zhongli_00684.wav|If youre heading to Jueyun Karst, please bring me back a bunch of Qingxin. Just one bunch is enough. Travel expenses,? Ah, I almost forgot. During the effective period of our contract, travel expenses are to be paid for by yourself. Sorry to bother you.
+zhongli_00300.wav|Improbable.
+zhongli_00226.wav|Guizhong Ballista, I have heard of this device before.
+zhongli_00718.wav|I am sure you have heard from your travels that the study of mechanisms is among the most wondrous arts in this world. With that in mind, I earnestly recommend procuring every last item in this collection.
+zhongli_00834.wav|I must thank you both.
+zhongli_00307.wav|,One of the clauses of our contract was not to divulge any of its contents.
+zhongli_00626.wav|The Mora present now will not vanish. But the Golden House will indeed have to cease operations for a lengthy period of time, since creating Mora requires the use of the Geo Archons power.
+zhongli_00680.wav|Since the Rite of Parting has the approval of the Qixing, it is a semi-official event. As such, there is already some limited information available.
+zhongli_00390.wav|Lastly, this strain is quite the recluse. Unlike its exuberant cousins, flowers and foliage are minimal, and when in season, it has a subtle yet enduring scent. It was first discovered by the ancients when they scaled the mountains in search of the adepti.
+zhongli_00137.wav|But now, Yes, I suppose I will continue in my role as a consultant at Wangsheng Funeral Parlor.
+zhongli_00349.wav|Credit is also due to Signora, the emissary dispatched by the Cryo Archon to fulfill our contract. At my request, she kept everything she knew in strict confidence — this despite the eavesdropping ears of her colleague, Childe.
+zhongli_00174.wav|The God of Contracts. Have you heard of him? He has an impressive memory. He remembers the name of every person he comes across, and the date that every ship built in Liyue sets sail. After all, only in being able to do so can he memorize all of the contracts he holds. With that said, not every memory is a happy one,
+zhongli_00651.wav|My days have been quite pleasant as well. I had been quietly enjoying a cup of tea when Mr. Shaozu requested my services.
+zhongli_00158.wav|Quite well, thank you. I was fortunate enough over the past few days to enjoy both a stroll in the mountains and a fresh brew of tea from the most recent harvest. The experiences left me with much insight and peace.
+zhongli_00353.wav|By this time of night, we will have already missed Ms. Yuns play, but Liyue is full of interesting places to explore, even at night.
+zhongli_00887.wav|Silk Flowers have all but disappeared from the wild today, due to geographical changes over Liyues history. Most are now grown by horticulturalists.
+zhongli_00753.wav|It seems that he thinks he still has work to do. Somethings not right.
+zhongli_00616.wav|After so long, naught but folktales remain
+zhongli_00821.wav|This topic is a bit unexpected, I dont know where to start.
+zhongli_00036.wav|Haha, no, no. Kites are childrens toys, yes, but they also play various symbolic roles in Liyues rituals.
+zhongli_00687.wav|The finest ingredients cooked with true expertise. This is no small feat.
+zhongli_00291.wav|Hmm,
+zhongli_00396.wav|The four of them have been gone for six days without a change of clothes.
+zhongli_00219.wav|,
+zhongli_00102.wav|The same can be said for this one here. Few could hope to possess an item that so perfectly blends mechanical wonder with geometric grace.
+zhongli_00171.wav|Theres a camp nearby. We should take him there and monitor his condition before deciding our next move.
+zhongli_00652.wav|And yet they are crystal creations all the same, few and far between, relatively unknown. A few hundred years ago, they were virtually mined into obscurity.
+zhongli_00503.wav|Every journey has its final day. Dont rush.
+zhongli_00533.wav|Now, I am the God of Wealth, so I would think that my words have some weight here.
+zhongli_00579.wav|Ah, if it isnt Ms. Xianyun. It has been quite some time since our last meeting. What a serendipitous reunion.
+zhongli_00785.wav|A most fair price.
+zhongli_00860.wav|Oh!
+zhongli_00385.wav|Now, though I did laud Ningguangs desire for power, believing this to be a good thing, and thought as a matter of course that she must have been behind the Qixings plan to take governing power over Liyue from the hands of the gods and adepti,
+zhongli_00552.wav|I believe those legends about the God of Salt that you mentioned on the Pearl Galley are passed down between generations at Yinyuan Hall,
+zhongli_00878.wav|Well then, according to our contract, the salt ruler goes to Miss Wanyan.
+zhongli_00880.wav|Despite never having signed a contract with me, she upholds order within many strata of Liyue society in her own way, dispelling misconceptions and correcting biases, Should her father one day return from his travels, I imagine that he would be even more delighted than I.
+zhongli_00421.wav|Boats are made for transferring commodities back and forth, and those that come across Liyue tend to stay a while, so it is where many things come to settle.
+zhongli_00157.wav|I see, If I am able to during our endeavour, I will help you look for this stone.
+zhongli_00595.wav|But our ancient grudge is but a bygone memory now
+zhongli_00876.wav|Stone carvings were one such ancient method. But unchanging stone, immovable earth, even one such as myself, Someday, we may all disappear.
+zhongli_00789.wav|Deicide or not, the concern of the Wangsheng Funeral Parlor is this: When the ritual to receive this god is so kingly, it is all the more egregious for his final send-off to go unattended to.
+zhongli_00267.wav|Things are taking a turn for the worse,
+zhongli_00510.wav|Whats more, a contraption built using adeptus technology should have no trouble detecting an adeptibeast as Qiqi put it,
+zhongli_00816.wav|Located in Tianheng Pass, it was designed to automatically fire at large monsters, protecting Liyue from external threats.
+zhongli_00034.wav|As long as a Traveler like you is able to record what happened, then a backup of sorts will exist for times and tides of Teyvat.
+zhongli_00817.wav|The people of Liyue follow a multitude of rules when arranging the furniture in a study. These decorative arts can largely be organized into three schools of thought and nine areas of specialization.
+zhongli_00404.wav|This is,
+zhongli_00094.wav|That which lies beyond this door will show you all that happened back then.
+zhongli_00135.wav|Any results, Mr. Kun Jun?
+zhongli_00466.wav|For those that live too long, the friends of days gone by and scenes from their adventures live on in their memories. As such, I have no regrets in meeting you, friend. Should the day ever come that we are not together, you will continue to shine like gold in my memories.
+zhongli_00283.wav|Because you agreed to a contract.
+zhongli_00749.wav|He was.
+zhongli_00301.wav|It looks like Ive played all my pieces, ahem, cards right.
+zhongli_00475.wav|Yes. Dont be alarmed, hes only asleep.
+zhongli_00224.wav|Dragonfall?
+zhongli_00709.wav|You always did have a great admiration for blacksmiths.
+zhongli_00835.wav|Guyun Stone Forest, where I sealed many gods with my spears,
+zhongli_00334.wav|With the <color=00E1FFFF>parts</color> in hand, I could at least tinker with it.
+zhongli_00106.wav|Then well take a box of the third type of jade.
+zhongli_00512.wav|I will have order!
+zhongli_00203.wav|Everything comes from nothing, and that which is small becomes large, one step at a time.
+zhongli_00333.wav|Quake!
+zhongli_00290.wav|,
+zhongli_00883.wav|The mechanics of this card game, Hmm, they should be comparable to the conventions of chess.
+zhongli_00009.wav|Thus another spark of divinity departs from Liyue
+zhongli_00705.wav|Are you satisfied, Azhdaha?
+zhongli_00088.wav|Yes, she has only relied on herself to rise to her current position. No ordinary person could ever achieve that.
+zhongli_00546.wav|As I said before, This is the place to which the remnants of many bygone gods are consigned.
+zhongli_00727.wav|But this Silk Flower purchase is not an analogous case. The same logic does not apply.
+zhongli_00837.wav|I can accept this arrangement.
+zhongli_00675.wav|Let us not speak of the authenticity of the dagger and sword first, But Mora and money came about simply because they are a convenient measure of a contracts value.
+zhongli_00657.wav|Rex Lapis has taken on countless forms. Perhaps that really was one of them.
+zhongli_00118.wav|After having experienced the land of the absentee archon, Traveler, how does it feel to know that our archon and adepti are here all around you in Liyue?
+zhongli_00746.wav|Then you met with Ningguang, I trust? What did you talk about with her?
+zhongli_00728.wav|We have encountered many clues along the way. So far theyve pointed us in the right direction.
+zhongli_00435.wav|I ordered some wine-fermented sweet rice balls for you, if that counts.
+zhongli_00249.wav|Certainly you have, and the contents of this saying are also related to the God of Salt.
+zhongli_00419.wav|Indeed. The weight of three thousand and seven hundred years worth of history runs deepest in the true divinity of Liyue.
+zhongli_00839.wav|Thats because theres actually another mechanism that must be activated.
+zhongli_00212.wav|Why is it then, that a citizen of Liyue now wishes to strike upon ore that has long since vanished from the earth?
+zhongli_00125.wav|In the safe hands of the Liyue Qixing and good, honest merchants such as yourself, I, for one, believe that Liyue will continue to prosper as it always has done.
+zhongli_00003.wav|My power is growing, and so with it grows the burden on my body, Im okay. My structure is not the same as that of normal people. Please, do not worry yourself.
+zhongli_00474.wav|When I was journeying with you, though I still had the Gnosis in hand, I knew that I must soon retire from my role as an archon. So I had to, rehearse a little, for my new life.
+zhongli_00266.wav|A fool sees the pointer and misses the moon.
+zhongli_00232.wav|But, the Hydro Mimic monsters, Hmmm, I have a contract, and must put my personal feelings aside. Go ahead, defeat them and recover the relic.
